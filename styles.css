@@ -1,0 +1,40 @@
+* {
+    border: 1px solid brown;
+}
+
+.header-font {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.header-footer {
+    background-color: #1f2937;
+}
+
+.secondary-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.main-text {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.flex-justify-between {
+    justify-content: space-between;
+}
